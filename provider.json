@@ -3,8 +3,8 @@
 		  "base_server":"https://sdk.mengtv.xyz",
 		  "file_base_server":"https://file.mengtv.xyz",
 		  "backup_server":"https://vayhnj.zxcftech.site",
-		  "file_base_server":"https://file.zxcftech.site"
+		  "file_backup_server":"https://file.zxcftech.site"
 	},
-	”code":200
+	"code":200
    
 }
